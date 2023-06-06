@@ -6,16 +6,6 @@ import ExpenseList from './components/ExpenseList';
 import ItemSelected from './components/ItemSelected';
 import Location from './components/Location';
 
-/*function App() {
-  return (
-    <div className="App">
-      <h1>Shopping App</h1>
-      <div className="row">
-        <CartValue />
-      </div>
-    </div>
-  );
-}*/
 const App = () => {
   return (
     <AppProvider>
